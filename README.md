@@ -39,5 +39,6 @@
 <a href="https://github.com/subhajit0210/github-stats">
 <!--<img width="400" src="https://subhajit0210.github.io/github-stats.github.io/generated/overview.svg#gh-dark-mode-only" />
 <img width="400" src="https://subhajit0210.github.io/github-stats.github.io/generated/languages.svg#gh-dark-mode-only" />-->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subhajit0210&layout=compact&theme=react)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhajit0210&label=Profile%20views&color=0e75b6&style=flat" alt="subhajit0210" />
