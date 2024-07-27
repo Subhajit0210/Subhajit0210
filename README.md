@@ -35,7 +35,7 @@
     <a href="https://www.linkedin.com/in/subhajit-sikder-96ba671ba/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=creator.gl01@gmail.com">
+    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=tutul.subhajit@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
 </div>
