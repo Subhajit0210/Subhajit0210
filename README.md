@@ -8,6 +8,8 @@
 <p align="center"> <i>Aspiring Data Scientist, with a strong foundation in data analysis, data visualization, data processing, some statistical analysis, data modeling and classification techniques. Eager to leverage academic knowledge and project experience to solve real-world problems and contribute to data-driven decision-making processes.</i> </p>
 
 ---
+<img align="right" alt="Coding" width="350" height="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 📫 How to reach me -- **tutul.subhajit@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
