@@ -29,4 +29,15 @@
 <!--<img width="400" src="https://subhajit0210.github.io/github-stats.github.io/generated/overview.svg#gh-dark-mode-only" />
 <img width="400" src="https://subhajit0210.github.io/github-stats.github.io/generated/languages.svg#gh-dark-mode-only" />-->
 
+### 🔗 Social info
+
+<div id="badges">
+    <a href="https://www.linkedin.com/in/subhajit-sikder-96ba671ba/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=creator.gl01@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhajit0210&label=Profile%20views&color=0e75b6&style=flat" alt="subhajit0210" />
