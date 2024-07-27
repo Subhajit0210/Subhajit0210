@@ -30,12 +30,27 @@
 <img width="400" src="https://subhajit0210.github.io/github-stats.github.io/generated/languages.svg#gh-dark-mode-only" />-->
 
 ### 🐍 Contribution snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://subhajit0210.github.io/github-snake.github.io/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://subhajit0210.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://subhajit0210.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
-</picture>
-
-![snake animation](https://github.com/<seu subhajit0210>/<seu subhajit0210>/blob/output/github-contribution-grid-snake2.svg)
+<title>GitHub Contribution Snake Animation</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f0f0f0;
+        }
+        picture {
+            max-width: 80%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://subhajit0210.github.io/github-snake.github.io/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://subhajit0210.github.io/github-snake.github.io/github-contribution-grid-snake2.svg">
+        <img alt="GitHub contribution grid snake animation" src="https://subhajit0210.github.io/github-snake.github.io/github-contribution-grid-snake2.svg">
+    </picture>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhajit0210&label=Profile%20views&color=0e75b6&style=flat" alt="subhajit0210" />
