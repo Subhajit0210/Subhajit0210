@@ -29,4 +29,11 @@
 <!--<img width="400" src="https://subhajit0210.github.io/github-stats.github.io/generated/overview.svg#gh-dark-mode-only" />
 <img width="400" src="https://subhajit0210.github.io/github-stats.github.io/generated/languages.svg#gh-dark-mode-only" />-->
 
+### 🐍 Contribution snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://subhajit0210.github.io/github-snake.github.io/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://subhajit0210.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://subhajit0210.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
+</picture>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhajit0210&label=Profile%20views&color=0e75b6&style=flat" alt="subhajit0210" />
