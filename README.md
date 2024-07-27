@@ -36,4 +36,6 @@
   <img alt="github contribution grid snake animation" src="https://subhajit0210.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
 </picture>
 
+![snake animation](https://github.com/<seu subhajit0210>/<seu subhajit0210>/blob/output/github-contribution-grid-snake2.svg)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhajit0210&label=Profile%20views&color=0e75b6&style=flat" alt="subhajit0210" />
