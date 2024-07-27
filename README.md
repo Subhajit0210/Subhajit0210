@@ -36,8 +36,8 @@
 
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=subhajit0210&count_private=true&show_icons=true&theme=react"/> <img width="425" src="https://streak-stats.demolab.com/?user=subhajit0210&theme=react" />
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=subhajit0210&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
-<a href="https://github.com/subhajit0210/github-stats">
-<!--<img width="400" src="https://subhajit0210.github.io/github-stats.github.io/generated/overview.svg#gh-dark-mode-only" />
+<!--<a href="https://github.com/subhajit0210/github-stats">
+<img width="400" src="https://subhajit0210.github.io/github-stats.github.io/generated/overview.svg#gh-dark-mode-only" />
 <img width="400" src="https://subhajit0210.github.io/github-stats.github.io/generated/languages.svg#gh-dark-mode-only" />-->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subhajit0210&layout=compact&theme=react)
 
